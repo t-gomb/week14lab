@@ -26,3 +26,7 @@ form input{
     display: inline-block;
     text-align: left;
 }
+img {
+    height: 800px;
+    width: 1500px;
+}
